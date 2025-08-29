@@ -1,2 +1,10 @@
 # tmux-swish
-Simple Tmux Session Switcher
+
+A simple, no fluff tmux session switcher. Uses `<prefix> O`
+
+### Prerequisites
+
+- fzf
+- tmux
+
+
